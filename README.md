@@ -1,6 +1,6 @@
 # Kern – 轻量级目标管理工具
 
-[English](#english) | [中文](#中文)
+[English](#README.en.md) | [中文](#中文)
 
 ---
 
